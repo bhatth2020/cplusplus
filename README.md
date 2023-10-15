@@ -1,2 +1,3 @@
 # cplusplus
-cplusplus samples
+This repo contains c++ samples or code examples
+
